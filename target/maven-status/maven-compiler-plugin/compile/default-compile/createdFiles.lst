@@ -1,0 +1,7 @@
+com\example\demo\User.class
+com\example\demo\UserType.class
+com\example\demo\UserTypeController.class
+com\example\demo\UserTypeRepository.class
+com\example\demo\UserController.class
+com\example\demo\AdFullstackProjectApplication.class
+com\example\demo\UserRepository.class
